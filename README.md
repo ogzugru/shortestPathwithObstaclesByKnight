@@ -1,1 +1,1 @@
-# shortestPathwithObstaclesByKnight
+# Algorithm that finds the shortest path of knight's tour
